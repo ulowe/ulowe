@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E)
 ![](https://img.shields.io/badge/C%2B%2B-00599C)
 ![](https://img.shields.io/badge/R-276DC3)
-![](https://img.shields.io/badge/Microsoft_SQL_Server)
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927)
 ![](https://img.shields.io/badge/Windows-017AD7)
 ![](https://img.shields.io/badge/Linux-E34F26)
 <br><br>
