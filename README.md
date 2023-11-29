@@ -7,9 +7,17 @@
     💻 Data Engineering • Data Science 
     🎮 Games  🎥 Anime 🍳 Cooking
 </pre>
+    
+![](https://img.shields.io/badge/Python-3776AB0)
+![](https://img.shields.io/badge/HTML-239120)
+![](https://img.shields.io/badge/CSS-239120)
+![](https://img.shields.io/badge/JavaScript-F7DF1E)
+![](https://img.shields.io/badge/C%2B%2B-00599C)
+![](https://img.shields.io/badge/R-276DC3)
+![](https://img.shields.io/badge/Microsoft_SQL_Server)
+![](https://img.shields.io/badge/Windows-017AD7)
+![](https://img.shields.io/badge/Linux-E34F26)
 <br><br>
-<br><br><br>
-  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ulowe)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](uilanilowe@gmail.com)
+    <img src ="https://github.com/ulowe/ulowe/blob/main/hellokitty.gif" height=40 />
 
+</div>
